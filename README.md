@@ -107,7 +107,7 @@
 - If You have Enabled 2-Step Verification then fill your password.
 - Your UltronBot Session Will be saved in your Telegram Saved Message.
 - There's a bug in repl which prints your input twice or more. You need to long tap and paste the required information in repl.
-- [![Replit](https://telegra.ph/file/68aacf214a17e366d9b60.jpg)](https://replit.com/@LEGEND-LX/ULTRONBOT?v=1)
+- [![Replit](](https://replit.com/@LEGEND-LX/ULTRONBOT?v=1)
 
 ### Terminal
 - Open the terminal.
